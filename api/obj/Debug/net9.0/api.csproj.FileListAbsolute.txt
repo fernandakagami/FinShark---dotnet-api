@@ -71,3 +71,4 @@ D:\Git\FinShark---dotnet-api\api\obj\Debug\net9.0\refint\api.dll
 D:\Git\FinShark---dotnet-api\api\obj\Debug\net9.0\api.pdb
 D:\Git\FinShark---dotnet-api\api\obj\Debug\net9.0\api.genruntimeconfig.cache
 D:\Git\FinShark---dotnet-api\api\obj\Debug\net9.0\ref\api.dll
+D:\Git\FinShark---dotnet-api\api\obj\Debug\net9.0\api.sourcelink.json
