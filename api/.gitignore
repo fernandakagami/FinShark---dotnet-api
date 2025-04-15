@@ -7,6 +7,12 @@ project.lock.json
 *.pyc
 nupkg/
 
+# Environment specifics
+.editorconfig
+*.key
+*.env
+appsettings.*.json
+
 # Visual Studio Code
 .vscode/
 
@@ -15,6 +21,12 @@ nupkg/
 
 # Visual Studio
 .vs/
+.vscode/settings.json
+/src/.env
+/src/env
+/.vscode
+/.vscode/settings.json
+/volumes
 
 # Fleet
 .fleet/
@@ -38,8 +50,16 @@ x86/
 build/
 bld/
 [Bb]in/
+bin/
 [Oo]bj/
+obj/
 [Oo]ut/
 msbuild.log
 msbuild.err
 msbuild.wrn
+[Bb]in/
+[Oo]bj/
+test/bin/
+test/[Oo]bj/
+test/obj/
+test/[Oo]ut/
